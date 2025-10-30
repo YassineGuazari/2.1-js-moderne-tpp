@@ -1,0 +1,5 @@
+ function sayHello(name) {
+ return Bonjour ${name};
+}
+ 
+const sayHelloArrow = (name) => Bonjour ${name};
